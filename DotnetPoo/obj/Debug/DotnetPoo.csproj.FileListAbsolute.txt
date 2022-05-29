@@ -1,0 +1,8 @@
+C:\Users\mique\Desktop\DIO\GFT\.net5\DotnetPoo\DotnetPoo\bin\Debug\DotnetPoo.exe.config
+C:\Users\mique\Desktop\DIO\GFT\.net5\DotnetPoo\DotnetPoo\bin\Debug\DotnetPoo.exe
+C:\Users\mique\Desktop\DIO\GFT\.net5\DotnetPoo\DotnetPoo\bin\Debug\DotnetPoo.pdb
+C:\Users\mique\Desktop\DIO\GFT\.net5\DotnetPoo\DotnetPoo\obj\Debug\DotnetPoo.csproj.AssemblyReference.cache
+C:\Users\mique\Desktop\DIO\GFT\.net5\DotnetPoo\DotnetPoo\obj\Debug\DotnetPoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\mique\Desktop\DIO\GFT\.net5\DotnetPoo\DotnetPoo\obj\Debug\DotnetPoo.csproj.CoreCompileInputs.cache
+C:\Users\mique\Desktop\DIO\GFT\.net5\DotnetPoo\DotnetPoo\obj\Debug\DotnetPoo.exe
+C:\Users\mique\Desktop\DIO\GFT\.net5\DotnetPoo\DotnetPoo\obj\Debug\DotnetPoo.pdb
